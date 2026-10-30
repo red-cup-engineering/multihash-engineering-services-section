@@ -1,4 +1,0 @@
-[submodule "multihash-address-service"]
-	path = services/multihash-address-service
-	url = https://github.com/red-cup-engineering/multihash-address-service.git
-	branch = main
