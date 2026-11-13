@@ -34,7 +34,6 @@
     "content",
     "scripts",
     "src",
-    "docs/API.md",
     "examples/quickstart.test.mjs"
   ],
   "sideEffects": false,
